@@ -1,19 +1,19 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/DishIs/fce-cli/releases/download/v0.1.4/fce_0.1.4_windows_amd64.zip",
+            "url": "https://github.com/DishIs/fce-cli/releases/download/v0.1.5/fce_0.1.5_windows_amd64.zip",
             "bin": [
                 "fce.exe"
             ],
-            "hash": "60301e368e76d5e6ff5de46fa476497154f03100be97e588323f72fe5985fc19"
+            "hash": "954ba384fb27050d4c96e4485fee4ecaa05c693f5108f7100035ed001e289501"
         },
         "arm64": {
-            "url": "https://github.com/DishIs/fce-cli/releases/download/v0.1.4/fce_0.1.4_windows_arm64.zip",
+            "url": "https://github.com/DishIs/fce-cli/releases/download/v0.1.5/fce_0.1.5_windows_arm64.zip",
             "bin": [
                 "fce.exe"
             ],
-            "hash": "8e58976419ff9000b85ce305d61a70313a023ad0d8d8a3462500dded9affd4a2"
+            "hash": "6a25e674ea58d0b8a90bffc25bf9ec3614123bf953ef60d4ed7aca1b9777c1b4"
         }
     },
     "homepage": "https://github.com/DishIs/fce-cli",
