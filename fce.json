@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/DishIs/fce-cli/releases/download/v0.1.0/fce_0.1.0_windows_amd64.zip",
+            "bin": [
+                "fce.exe"
+            ],
+            "hash": "24d1246c5b572259c8c8ec4796008a503bda3d62542733e487f6fcfdc5ed3b23"
+        },
+        "arm64": {
+            "url": "https://github.com/DishIs/fce-cli/releases/download/v0.1.0/fce_0.1.0_windows_arm64.zip",
+            "bin": [
+                "fce.exe"
+            ],
+            "hash": "aac829fb50f65930d9cfcd4376934ae75878d8b0e24c4191386ac9e3d1f18282"
+        }
+    },
+    "homepage": "https://github.com/DishIs/fce-cli",
+    "license": "MIT",
+    "description": "FreeCustom.Email CLI — Manage disposable inboxes from your terminal."
+}
